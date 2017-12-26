@@ -1,4 +1,4 @@
-# tensorflow
+# Tf-Slim
 使用谷歌开源的TensorFlow的Slim库进行一系列的训练实践
 
 项目列表
